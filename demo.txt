@@ -1,2 +1,4 @@
 This is a demo text file.
 This is another line into demo file.
+
+This is new line using mynewbranch
